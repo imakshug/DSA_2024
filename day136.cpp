@@ -3,7 +3,7 @@
 class Solution {
 public:
     int minOperations(vector<string>& logs) {
-        stack<strings>s;
+        stack<string>s;
         for (auto it: logs){
             if(it=="./")continue;
             else if (it=="../"){
