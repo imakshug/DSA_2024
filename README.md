@@ -16,7 +16,8 @@ Every day, I dive into LeetCode problems to refine my Data Structures and Algori
 
 I focus on solving many problems from easy to hard to challenge myself and improve my problem-solving skills continuously.
 
-![Screenshot 2024-09-12 210621](https://github.com/user-attachments/assets/668f9a14-a216-4e36-a629-721fe6a973ab)
+
+![Screenshot 2024-10-01 132329](https://github.com/user-attachments/assets/3c05ccdc-2523-4ecb-8bbe-0b72c03d25b7)
 
 ## LeetCode Profile
 Check out my LeetCode profile to see my progress and the badges I’ve earned:
